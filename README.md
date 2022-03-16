@@ -16,7 +16,5 @@
 >TODO
 
 ## TODO
-- [x] Init part
-- [x] Panic catch
-- [ ] Write man
-- [x] Unit test
+- remove useless gofunc ...
+- Write readme
